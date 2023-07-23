@@ -11,6 +11,7 @@ $.ajax({
             </div>`
 
             
+
             $('#myitems').append(newitems);
         }
     }
