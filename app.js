@@ -10,7 +10,6 @@ $.ajax({
                 <p>${response.meals[i].idMeal}</p>
             </div>`
 
-            
             $('#myitems').append(newitems);
         }
     }
