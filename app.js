@@ -8,7 +8,7 @@ $.ajax({
                 <p>${response.meals[i].strMeal}</p>
                 <img class="img-fluid" src="${response.meals[i].strMealThumb}"/>
                 <p>${response.meals[i].idMeal}</p>
-                
+
             </div>`
 
             $('#myitems').append(newitems);
