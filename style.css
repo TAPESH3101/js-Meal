@@ -17,7 +17,7 @@ p {
 }
 
 li{
-    color: white;
+    color: rgb(252, 246, 246);
     list-style-type: none;
     display: inline;
     margin-bottom: 15px !important;
